@@ -11,6 +11,10 @@ export default function Home() {
 				<li>
 					<Link to="/getusermedia">Basic getUserMedia demo</Link>
 				</li>
+				<li>
+
+					<Link to="/getusermediacanvas">Basic getUserMedia with canvas demo</Link>
+				</li>
 			</ul>
 		</div>
 	);
